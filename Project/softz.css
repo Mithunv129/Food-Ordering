@@ -57,7 +57,7 @@ header .icons a{
 
 .home{
     margin-top: 82px;
-    background-image: url(/photo/sis.jpg);
+    background-image: url(./photo/sis.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
